@@ -13,7 +13,7 @@ More details about the benchmark setup and our experiments on gaze and fatigue p
 ## Dataset Statistics
 
 ### Gaze Data
-- **General Setup**: A total of six annotators are involved, each annotating at least **2080 ** out of the 3,182 videos. We have collected a total of **109** human-annotated videos. The official training and testing splits will be released soon.
+- **General Setup**: A total of six annotators are involved, each annotating at least **2080** out of the 3,182 videos. We have collected a total of **109** human-annotated videos. The official training and testing splits will be released soon.
 - **Cross-Person Evaluation**: Four additional annotators each annotate 260 unique videos, contributing a total of **1,040** human-annotated videos.
 
 ### Fatigue Data
