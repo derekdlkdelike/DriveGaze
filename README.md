@@ -13,7 +13,7 @@ More details about the benchmark setup and our experiments on gaze and fatigue p
 ## Dataset Statistics
 
 ### Gaze Data
-- **General Setup**: A total of six annotators are involved, each annotating at least **(此处填写平均数)** out of the 3,182 videos. We have collected a total of **(此处填写现有总数)** human-annotated videos. The official training and testing splits will be released soon.
+- **General Setup**: A total of six annotators are involved, each annotating at least **2080 ** out of the 3,182 videos. We have collected a total of **109** human-annotated videos. The official training and testing splits will be released soon.
 - **Cross-Person Evaluation**: Four additional annotators each annotate 260 unique videos, contributing a total of **1,040** human-annotated videos.
 
 ### Fatigue Data
@@ -29,7 +29,7 @@ More details about the benchmark setup and our experiments on gaze and fatigue p
 - **Hikvision camera** for capturing facial information
 - **Lenovo Legion Y9000P** for playing accident videos and recording human reactions  
 
-*(此处可以有一张笔记本+摄像头+眼动仪组合在一起的照片，不用人脸)*
+!(https://github.com/derekdlkdelike/DriveGaze/blob/master/9efcb49fec11ef38bf910bbc701084a.jpg)
 
 ### Setup Details
 1. **Psychomotor Vigilance Task (PVT)**: This task is used to measure the annotator's reaction time, helping to determine if they are fatigued or vigorous.
@@ -40,15 +40,10 @@ More details about the benchmark setup and our experiments on gaze and fatigue p
 
 ## Examples
 
-*(此处放一组example，依次为：)*
-
-- 某张video frame
-- video frame上gaze的location，即在前面一张video frame的gaze location位置画上红点表明此处为recrod的gaze
-- 当前人脸图片 
-- 当前人的PVT反应时间 与 这个video的reaction time。 这个写两个数字即可，不需要图片
+coming soon
 
 ---
 
 ## Reference
 
-Our dataset will be available soon. Please contact us at **(此处添加作者邮箱cichu)** for more details.
+Our dataset will be available soon. Please contact us at 22060934@hdu.edu.com for more details.
