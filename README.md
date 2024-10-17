@@ -29,7 +29,7 @@ More details about the benchmark setup and our experiments on gaze and fatigue p
 - **Hikvision camera** for capturing facial information
 - **Lenovo Legion Y9000P** for playing accident videos and recording human reactions  
 
-!(https://github.com/derekdlkdelike/DriveGaze/blob/master/9efcb49fec11ef38bf910bbc701084a.jpg)
+![](https://raw.githubusercontent.com/derekdlkdelike/DriveGaze/master/pic/9efcb49fec11ef38bf910bbc701084a.jpg)
 
 ### Setup Details
 1. **Psychomotor Vigilance Task (PVT)**: This task is used to measure the annotator's reaction time, helping to determine if they are fatigued or vigorous.
